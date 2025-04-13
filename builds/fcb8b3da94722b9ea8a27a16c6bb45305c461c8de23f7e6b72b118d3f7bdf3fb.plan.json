@@ -1,0 +1,1 @@
+{"filename": "builds\\fcb8b3da94722b9ea8a27a16c6bb45305c461c8de23f7e6b72b118d3f7bdf3fb.zip", "runtime": "nodejs16.x", "artifacts_dir": "builds", "build_plan": [[["zip", "modules/lambda/src/get_all_authors", null]]]}
